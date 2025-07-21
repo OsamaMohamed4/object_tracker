@@ -1,12 +1,12 @@
-# 🧠 Object Tracking using OpenCV (CSRT Tracker)
+# Object Tracking using OpenCV (CSRT Tracker)
 
 This project demonstrates a basic object tracking system using **OpenCV** and the **CSRT tracker**. The user selects a **Region of Interest (ROI)** in the first frame from the webcam, and the tracker follows it in real time.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### ✅ Requirements
+### Requirements
 
 - Python 3.7 or higher  
 - OpenCV ≥ 4.5 (must include `cv2.legacy` module)  
@@ -14,7 +14,7 @@ This project demonstrates a basic object tracking system using **OpenCV** and th
 
 ---
 
-### 🧩 Install Dependencies
+### Install Dependencies
 
 Use the following command to install the required libraries:
 
@@ -26,7 +26,7 @@ pip install opencv-python opencv-contrib-python
 
 ---
 
-### ▶️ Run the Tracker
+### Run the Tracker
 
 Run the Python script:
 
@@ -52,7 +52,7 @@ Then follow these steps:
 
 ---
 
-✅ Tested on:
+Tested on:
 - Python 3.11
 - OpenCV 4.12.0
 - Windows 10 / Ubuntu 22.04
